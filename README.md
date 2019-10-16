@@ -12,8 +12,3 @@ range(0.0.0.0-255.255.255.255) value of Ip address. (used CSV testCase1 for this
 
 To make code clean and optimized I have created separate validation functions for all four parameters(direction,protocol,port,Ip address). 
 To optimize function isValidIpV4 I have used regex to validate Ipv4 address.
-
-My preference for team is below :
-1. Policy Team
-2. Data Team
-3. Platform Team
